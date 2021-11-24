@@ -1,2 +1,5 @@
 # BouncingBalls
-A simple bouncy ball program using java swing and jdk-11.0.11
+## A simple program that uses a bouncy ball as an example to demonstrate putting basic physics into a program.
+
+## INSTRUCTIONS
+>
